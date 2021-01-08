@@ -1,0 +1,2 @@
+# AdminTemplate
+AdminTemplate是一个基于jquery的后台管理系统的模块
